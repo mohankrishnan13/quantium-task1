@@ -20,7 +20,6 @@ result_df = result_df.assign(sales = result_df['price'] * result_df['quantity'])
                      .drop(columns=['product', 'price', 'quantity']) \
                      [['sales','date','region']]
 
-output_file = os.path.join(data_folder, 'output.csv')
-result_df.to_csv(output_file, index=False)
+result_df.to_csv('output.csv', index=False)
 
-print(f"CSV saved successfully to {output_file}")
+print("CSV saved successfully")

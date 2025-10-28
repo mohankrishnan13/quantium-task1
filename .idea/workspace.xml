@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c892db3b-3a91-40cd-ac39-2f33d8f26eed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pink_morsels_sales_details.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/quantium-starter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/quantium-starter.iml" afterDir="false" />
+    <list default="true" id="c892db3b-3a91-40cd-ac39-2f33d8f26eed" name="Changes" comment="task2v1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pink_morsels_sales_details.py" beforeDir="false" afterPath="$PROJECT_DIR$/pink_morsels_sales_details.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +77,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,14 +99,27 @@
       <updated>1761623036526</updated>
       <workItem from="1761623037704" duration="1186000" />
       <workItem from="1761624287360" duration="2996000" />
-      <workItem from="1761627643884" duration="9473000" />
+      <workItem from="1761627643884" duration="10165000" />
     </task>
+    <task id="LOCAL-00001" summary="task2v1">
+      <option name="closed" value="true" />
+      <created>1761639644672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761639644672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task2v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task2v1" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/quantium_starter$pink_morsels_sales_details.coverage" NAME="pink_morsels_sales_details Coverage Results" MODIFIED="1761638700159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/quantium_starter$pink_morsels_sales_details.coverage" NAME="pink_morsels_sales_details Coverage Results" MODIFIED="1761639382787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
